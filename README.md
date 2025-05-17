@@ -1,4 +1,4 @@
-greetings.txt, README.md
+greetings.txt
 # GitHub Clone Project
 Objective: Practice branching, merging, and conflict resolution in Git.
-Modification in main branch.
+Modification in the main branch.
