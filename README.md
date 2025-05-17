@@ -1,3 +1,4 @@
  # GitHub Clone Project
 Objective: Practice branching, merging, and conflict resolution in Git.
-Modification in main branch.
+Modification in the main branch.
+greetings.txt, README.md
